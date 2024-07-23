@@ -12,7 +12,7 @@ These instructions will guide you through the process of building and running th
 
 ### Building the Docker Image
 
-1. Clone the repository: `git clone https://github.com/prabhattiwari8/docker-app-sample.git`
+1. Clone the repository: `git clone https://github.com/prabhattiwari8/sample-docker-app.git`
 2. Navigate to the project directory:
 
 `cd docker-app-sample`
