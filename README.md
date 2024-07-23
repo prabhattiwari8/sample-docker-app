@@ -9,6 +9,14 @@ These instructions will guide you through the process of building and running th
 ### Prerequisites
 
 - Docker installed on your machine
+  
+### Installing Docker
+
+1. Visit the official Docker website: [https://www.docker.com/](https://www.docker.com/)
+2. Click on the "Get Started" button and follow the instructions to download and install Docker for your operating system (Windows, Mac, or Linux).
+3. Verify the installation by running the following command in your terminal or command prompt:
+
+docker --version
 
 ### Building the Docker Image
 
