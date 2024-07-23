@@ -23,7 +23,7 @@ docker --version
 1. Clone the repository: `git clone https://github.com/prabhattiwari8/sample-docker-app.git`
 2. Navigate to the project directory:
 
-`cd docker-app-sample`
+`cd sample-docker-app`
 
 3. Build the Docker image:
 
