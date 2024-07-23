@@ -1,2 +1,2 @@
 # sample-docker-app
-This is a sample app to learn ontainerization
+This is a sample app to learn containerization
