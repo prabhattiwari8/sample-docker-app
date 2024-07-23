@@ -27,13 +27,13 @@ docker --version
 
 3. Build the Docker image:
 
-`docker build -t docker-app-sample`
+`docker build -t sample-docker-app`
 
 ### Running the Docker Container
 
 1. Start the Docker container:
 
-docker run -p 8080:80 docker-app-sample
+docker run -p 8080:80 sample-docker-app
 
 This command maps port 8080 on your local machine to port 80 in the container.
 
